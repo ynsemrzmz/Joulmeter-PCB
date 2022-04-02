@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=M0 Pin=P10-1
+Added Pin To Net: NetName=M0 Pin=R29-2
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

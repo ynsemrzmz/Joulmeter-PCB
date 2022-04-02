@@ -1,0 +1,24 @@
+Added Component: Designator=C40(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_EATON_DR125-4R7-R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Fixed Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "DR125-4R7-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "7.18A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dc Resistance"; Value = "10.5mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_1 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Member To Class: ClassName=Power Member=Component C40 100nF
+Added Member To Class: ClassName=Power Member=Component L1 4.7uH

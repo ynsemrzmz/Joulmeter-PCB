@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RELAY Pin=U1-38
+Added Pin To Net: NetName=RELAY Pin=U1-33
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

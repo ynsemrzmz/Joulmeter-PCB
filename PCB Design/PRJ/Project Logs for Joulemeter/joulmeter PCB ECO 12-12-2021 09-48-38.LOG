@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3V3 Pin=D4-2
+Removed Pin From Net: NetName=+3V3 Pin=K1-A1
+Removed Pin From Net: NetName=+3V3 Pin=R17-1
+Added Pin To Net: NetName=+3V3_A Pin=D4-2
+Added Pin To Net: NetName=+3V3_A Pin=K1-A1
+Added Pin To Net: NetName=+3V3_A Pin=R17-1
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

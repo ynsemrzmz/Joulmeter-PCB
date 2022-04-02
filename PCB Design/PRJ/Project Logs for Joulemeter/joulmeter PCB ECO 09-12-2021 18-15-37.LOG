@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+3V3 Pin=R31-1
+Removed Pin From Net: NetName=RS232_TX2 Pin=R31-2
+Removed Pin From Net: NetName=+3V3 Pin=R32-1
+Removed Pin From Net: NetName=RS232_TX1 Pin=R32-2
+Added Component: Designator=D9(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Water Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "94mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "BL-HKB35A-TRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "2.2V"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Led"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Water Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "94mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "BL-HKB35A-TRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "2.2V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS232_TX2 Pin=D9-2
+Added Pin To Net: NetName=RS232_TX1 Pin=D10-2
+Added Pin To Net: NetName=+3V3 Pin=R31-2
+Added Pin To Net: NetName=+3V3 Pin=R32-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R31-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R32-1
+Added Net: Name=NetD10_1
+Added Member To Class: ClassName=Peripheral Member=Component D9 BL-HKB35A-TRB
+Added Member To Class: ClassName=Peripheral Member=Component D10 BL-HKB35A-TRB
+Added Room: Name=Peripheral

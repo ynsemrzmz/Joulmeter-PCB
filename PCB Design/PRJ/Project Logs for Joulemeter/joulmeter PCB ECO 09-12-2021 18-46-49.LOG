@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SWCLK Pin=J2-3
+Removed Pin From Net: NetName=SWDIO Pin=J2-4
+Added Pin To Net: NetName=SWDIO Pin=J2-3
+Added Pin To Net: NetName=SWCLK Pin=J2-4
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

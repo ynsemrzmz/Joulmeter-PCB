@@ -1,0 +1,26 @@
+Added Component: Designator=R31(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW06031K00FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW06031K00FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R31-1
+Added Pin To Net: NetName=RS232_TX2 Pin=R31-2
+Added Pin To Net: NetName=+3V3 Pin=R32-1
+Added Pin To Net: NetName=RS232_TX1 Pin=R32-2
+Added Member To Class: ClassName=Peripheral Member=Component R31 1k
+Added Member To Class: ClassName=Peripheral Member=Component R32 1k
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

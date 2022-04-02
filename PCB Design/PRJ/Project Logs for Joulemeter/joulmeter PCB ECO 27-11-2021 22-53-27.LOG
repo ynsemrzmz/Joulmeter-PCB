@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P4 Old Footprint=1x2 HEADER New Footprint=2 PIN MALE 180C TH 2.50MM
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

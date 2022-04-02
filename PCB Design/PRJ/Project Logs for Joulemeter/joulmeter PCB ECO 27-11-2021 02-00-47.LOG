@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=M0 Pin=P9-1
+Removed Pin From Net: NetName=M0 Pin=P9-2
+Removed Pin From Net: NetName=M0 Pin=P10-1
+Removed Pin From Net: NetName=M0 Pin=P10-2
+Added Component: Designator=R29(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M0 Pin=R29-1
+Added Pin To Net: NetName=M0 Pin=R30-1
+Change Net Name : Old Net Name=M0 New Net Name=GND
+Added Pin To Net: NetName=M0 Pin=P9-1
+Added Net: Name=M0
+Added Pin To Net: NetName=M1 Pin=P9-2
+Added Pin To Net: NetName=M1 Pin=P10-2
+Added Pin To Net: NetName=M1 Pin=R30-2
+Added Net: Name=M1
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=R29-2
+Added Net: Name=NetP10_1
+Added Member To Class: ClassName=Connectors Member=Component C4 10nF
+Added Member To Class: ClassName=Connectors Member=Component R29 10k
+Added Member To Class: ClassName=Connectors Member=Component R30 10k
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power
